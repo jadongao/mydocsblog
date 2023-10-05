@@ -12,9 +12,7 @@ Markdown text with [links](./hello.md)
 ![Docusaurus logo](/img/docusaurus.png)
 
 Let's see how to [Create a page](./tutorial-basics/create-a-page).
-                                  tutorial-basics/create-a-page
 
-Let's see how to [Create a page](./create-a-page.md).
 
 :::tip My tip
 
